@@ -38,6 +38,31 @@ Before running the application, you'll need to install:
    cd StreamScape
 
 2. **Install the dependencies:**
+   ```bash
    npm install
+
+3. **Set up Firebase:**
+   - Create a Firebase project through the Firebase console.
+   - Enable Authentication and Firestore Database.
+   - Replace the firebaseConfig in the firebase.js file with your project's configuration details.
+
+
+
+4. **Run the application:**
+   ```bash
+   npm run dev
+
+**Available Scripts**
+In the project directory, you can run:
+
+**npm start:** Runs the app in development mode.
+**npm test:** Launches the test runner.
+**npm run build:** Builds the app for production to the build folder.
+
+
+**Acknowledgments**
+**React.js Documentation:** For their clear and comprehensive guides.
+**Firebase Documentation:** For their extensive resources and tutorials.
+**FontAwesome:** Icons used throughout the application.
 
 
