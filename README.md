@@ -1,6 +1,8 @@
 # StreamScape
 
-StreamScape is a web application inspired by popular streaming platforms, designed to deliver a personalized and engaging media streaming experience. It allows users to browse, search, and watch a wide variety of movies and TV shows.
+StreamScape is a web application inspired by Netflix, designed to deliver a personalized and engaging media streaming experience. It allows users to browse, search, and watch a wide variety of movies and TV shows.
+
+
 
 ## Features
 
