@@ -36,3 +36,8 @@ Before running the application, you'll need to install:
    ```bash
    git clone https://github.com/jal2003/StreamScape.git
    cd StreamScape
+
+2. **Install the dependencies:**
+   npm install
+
+
