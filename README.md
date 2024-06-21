@@ -1,6 +1,8 @@
 # StreamScape
 
 https://harmony-3tbmae2m5-jal-desais-projects.vercel.app
+
+
 StreamScape is a web application inspired by Netflix, designed to deliver a personalized and engaging media streaming experience. It allows users to browse, search, and watch a wide variety of movies and TV shows.
 
 
